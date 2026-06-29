@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="wan2.2" width="880"></p>
+
 # Wan2.2
 
 <p align="center">
