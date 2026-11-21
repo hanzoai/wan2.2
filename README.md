@@ -2,6 +2,8 @@
 
 # Wan2.2
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/wan2.2&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/wan2.2&ref=main&action=edit)
+
 <p align="center">
     <img src="assets/logo.png" width="400"/>
 <p>
